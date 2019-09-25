@@ -40,3 +40,4 @@ upload
 *.phpunit.result.cache
 *.sql
 *.txt
+!robots.txt
