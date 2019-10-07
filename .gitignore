@@ -1,9 +1,11 @@
 bitrix/activities/bitrix/
 bitrix/admin
+bitrix/backup
 bitrix/blocks
 bitrix/cache
 bitrix/components/bitrix
 bitrix/css
+bitrix/fonts
 bitrix/gadgets/bitrix
 bitrix/gadgets/acrit
 bitrix/html_pages
@@ -18,7 +20,6 @@ bitrix/panel
 bitrix/sounds
 bitrix/services
 bitrix/template
-bitrix/templates
 bitrix/themes
 bitrix/tmp
 bitrix/tools
